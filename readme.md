@@ -86,6 +86,9 @@ Le bloc supporte toutes les options de style WordPress :
 - **Espacement** : Marges, padding
 - **Bordures** : Couleur, style, largeur, rayon
 
+<img width="283" height="862" alt="image" src="https://github.com/user-attachments/assets/9a85765d-6a96-463c-be93-ce7e34d5c449" />
+
+
 ## 🔧 Fonctionnement technique
 
 ### Hooks WordPress utilisés
@@ -183,5 +186,6 @@ Ce plugin est distribué sous licence GPL-2.0-or-later.
 **Version** : 1.0.0  
 **Testé jusqu'à** : WordPress 6.4  
 **Auteur** : Cédric pour Ares in live
+
 
 
