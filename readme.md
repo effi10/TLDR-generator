@@ -2,6 +2,9 @@
 
 Un plugin WordPress qui génère automatiquement des résumés TLDR (Too Long; Didn't Read) pour vos articles en utilisant l'intelligence artificielle (OpenAI ou Gemini).
 
+<img width="1716" height="694" alt="image" src="https://github.com/user-attachments/assets/054a6fe8-e690-440f-954c-b6a8cffb676c" />
+
+
 ## 🚀 Fonctionnalités
 
 ### ✨ Génération automatique
@@ -178,3 +181,4 @@ Ce plugin est distribué sous licence GPL-2.0-or-later.
 **Version** : 1.0.0  
 **Testé jusqu'à** : WordPress 6.4  
 **Auteur** : Cédric pour Ares in live
+
