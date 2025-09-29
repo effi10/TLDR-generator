@@ -77,6 +77,8 @@ Pour traiter vos articles existants :
 2. Recherchez "Résumé TLDR" ou naviguez dans la catégorie "Texte"
 3. Insérez le bloc où vous souhaitez afficher le résumé
 
+__ASTUCE :__ vous pouvez utiliser le "Site builder" du thème Astra Pro pour insérer automatiquement le bloc dans vos articles, ou le plugin https://github.com/effi10/effi-block-inserter si vous n'utilisez pas un thème permettant de le faire.
+
 ### Personnalisation
 Le bloc supporte toutes les options de style WordPress :
 - **Couleurs** : Texte, arrière-plan
@@ -181,4 +183,5 @@ Ce plugin est distribué sous licence GPL-2.0-or-later.
 **Version** : 1.0.0  
 **Testé jusqu'à** : WordPress 6.4  
 **Auteur** : Cédric pour Ares in live
+
 
