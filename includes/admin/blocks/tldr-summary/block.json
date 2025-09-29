@@ -1,0 +1,40 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "tldr-generator/summary",
+    "version": "0.1.0",
+    "title": "Résumé TLDR",
+    "category": "text",
+    "icon": "text-page",
+    "description": "Affiche le résumé TLDR généré pour la publication.",
+    "supports": {
+        "html": false,
+        "color": {
+            "text": true,
+            "background": true,
+            "link": false
+        },
+        "typography": {
+            "fontSize": true,
+            "lineHeight": true
+        },
+        "spacing": {
+            "margin": true,
+            "padding": true
+        },
+        "__experimentalBorder": {
+            "color": true,
+            "style": true,
+            "width": true,
+            "radius": true
+        }
+    },
+    "attributes": {
+        "style": {
+            "type": "object"
+        }
+    },
+    "textdomain": "tldr-generator",
+    "editorScript": "tldr-generator-summary-editor",
+    "render": "file:./render.php"
+}
